@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tt-commom/tt-commom.iml" filepath="$PROJECT_DIR$/tt-commom/tt-commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manager/tt-manager.iml" filepath="$PROJECT_DIR$/tt-manager/tt-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/tt-manager-pojo.iml" filepath="$PROJECT_DIR$/tt-manager/tt-manager-pojo/tt-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-parent.iml" filepath="$PROJECT_DIR$/tt-parent.iml" />
+    </modules>
+  </component>
+</project>
